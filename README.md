@@ -28,7 +28,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>
+<a href="https://https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src='https://camo.githubusercontent.com/f319f12395d0be9498a11de993fb4efe21c1c7849ef802380ad22306c63e639e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2e737667' alt='django' height='40'>
 </p>
 
 ### 🧑‍💻 This week I spent my time on
