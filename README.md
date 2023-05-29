@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Evgeniy_Malikov" target="_blank">Evgeniy</a> </h1>
 <h3 align="center">Computer science student</h3>
 
+
 [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
-<a href="https://stepik.org/users/568858808" target="blank"><img align="center" src="https://static.tildacdn.com/tild3237-6335-4932-a538-383365376633/stepik_logotype_blac.svg" alt="daniilshat" height="200" width="200" /></a>
-
 - 🌱 I’m currently learning **Yandex Practicum Python backend developer**
+- 🌱 I’m currently learning <a href="https://stepik.org/users/568858808" target="blank" rel="noreferrer"> <img align="center" src="images/stepik_logotype_white.png" height="45" width="130" /></a> 
 - 📫 How to reach me **evgeniy_malikov@hotmail.com**
 
 ### Connect with me:
