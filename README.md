@@ -5,7 +5,7 @@
 [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
 - 🌱 I’m currently learning **Yandex Practicum Python backend developer**
-- 🌱 I’m currently learning <a href="https://stepik.org/users/568858808" target="blank" rel="noreferrer"> <img align="center" src="images/stepik_logotype_white.png" height="45" width="130" /></a> 
+- 🌱 I’m currently learning <a href="https://stepik.org/users/568858808" target="blank" rel="noreferrer"> <img align="center" src="images/stepik_logotype_white.png" height="45" width="120" /></a> 
 - 📫 How to reach me **evgeniy_malikov@hotmail.com**
 
 ### Connect with me:
