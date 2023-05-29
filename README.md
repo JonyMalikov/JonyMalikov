@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Yandex Practicum Python backend developer**
 - 🌱 I’m currently learning <a href="https://stepik.org/users/568858808" target="blank" rel="noreferrer"> <img align="center" src="images/stepik_logotype_white.png" height="45" width="120" /></a> 
 - 📫 How to reach me **evgeniy_malikov@hotmail.com**
+- 🌍 I speak Russian (native)
 
 ### Connect with me:
 <p align="left">
@@ -31,5 +32,11 @@
 <a href="https://https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src='https://avatars.githubusercontent.com/u/27804?s=200&v=4' alt='django' width="40" height='40'>
 </p>
 
-### 🧑‍💻 This week I spent my time on
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonyMalikov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🧑‍💻 
+
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=JonyMalikov&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonyMalikov&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonyMalikov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonyMalikov&theme=github_dark)
