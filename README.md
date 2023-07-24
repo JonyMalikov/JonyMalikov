@@ -43,7 +43,8 @@
 
 ### 📊 My stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonyMalikov&theme=github_dark)
-
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonyMalikov&theme=github_dark&#41;)
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonyMalikov&theme=github_dark&#41;)
+<p float="left">
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="160em" alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
+</p>
