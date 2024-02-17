@@ -5,7 +5,6 @@
 
 [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
-- 🌱 I’m currently learning **Yandex Practicum Python developer**
 - 🌱 I’m currently
   learning <a href="https://stepik.org/users/568858808" target="blank" rel="noreferrer"> <img align="center" src="images/stepik_logotype_white.png" height="45" width="120" /></a>
 - 📫 How to reach me **evgeniy.malikov@yahoo.com**
@@ -14,10 +13,9 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://t.me/wa1pper" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/Evgeniy_Malikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
 <a href="https://vk.com/e.malikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
-<a href="
-" target="blank"><img align="center" src='images/linkedin.png' alt='linkedin' height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/evgeniy-malikov-740446279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src='images/linkedin.png' alt='linkedin' height="40" width="40" /></a>
 </p>
 
 ### Languages:
