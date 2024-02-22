@@ -21,7 +21,7 @@
 ### Languages:
 
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src='https://skillicons.dev/icons?i=sqlite' width="40" height='40'> </a>
@@ -39,6 +39,7 @@
 <a href="https://https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src='https://skillicons.dev/icons?i=django' alt='django' width="40" height='40'> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pycharm" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="git" width="40" height="40"/> </a> 
 </p>
 
 ### 📊 My stats:
