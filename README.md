@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently
   learning <a href="https://stepik.org/users/568858808" target="blank" rel="noreferrer"> <img align="center" src="images/stepik_logotype_white.png" height="45" width="120" /></a>
-- 📫 How to reach me **evgeniy.malikov@yahoo.com**
+- 📫 How to reach me **malikov_ev@mail.ru**
 - 🌍 I speak Russian (native)
 
 ### Connect with me:
