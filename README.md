@@ -48,21 +48,18 @@
 
 ## 📊 Статистика
 
+<!-- СТАТИСТИКА GITHUB (рабочий инстанс) -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
 </div>
 
-<!-- ТРОФЕИ (рабочий домен vercel) -->
+<!-- ТРОФЕИ GITHUB (рабочий домен vercel) -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonyMalikov&theme=radical&no-frame=true&row=2&column=3&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd" />
 </div>
 
-<!-- ГРАФИК АКТИВНОСТИ (исправлен на github-readme-activity-graph) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonyMalikov&theme=react-dark&bg_color=0d1117&hide_border=true&color=a9dc76&line=a9dc76&point=fdfdfd" width="100%"/>
-</div>
-
+<!--змейка-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
