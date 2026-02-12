@@ -46,6 +46,16 @@
 
 ---
 
+## 📊 Статистика
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonyMalikov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonyMalikov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonyMalikov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonyMalikov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonyMalikov&theme=radical&utcOffset=3" />
+</div>
+
 <!--змейка-->
 <picture>
   <source
