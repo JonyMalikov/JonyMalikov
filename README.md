@@ -58,7 +58,7 @@
 <!-- ТРОФЕИ (исправленный домен) -->
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonyMalikov&theme=radical&no-frame=true&row=2&column=3&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd" />
-</div> --> -->
+</div> -->
 
 <!-- ГРАФИК АКТИВНОСТИ -->
 <picture>
