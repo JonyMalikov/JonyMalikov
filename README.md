@@ -63,6 +63,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonyMalikov&theme=react-dark&bg_color=0d1117&hide_border=true&color=a9dc76&line=a9dc76&point=fdfdfd" width="100%"/>
 </div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 <!-- ПОДВАЛ -->
