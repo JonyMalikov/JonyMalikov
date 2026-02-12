@@ -50,8 +50,8 @@
 
 <!-- СТАТИСТИКА GITHUB (рабочий инстанс) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
+  <img height="180em" src="github-readme-stats-eight-alpha-69.vercel.app?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs" />
+  <img height="180em" src="github-readme-stats-eight-alpha-69.vercel.app/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
 </div>
 
 <!-- ТРОФЕИ GITHUB (рабочий домен vercel) -->
