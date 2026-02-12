@@ -50,20 +50,35 @@
 
 ## 📊 Статистика и трофеи
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
 </div>
 
 <!-- ТРОФЕИ (исправленный домен) -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonyMalikov&theme=radical&no-frame=true&row=2&column=3&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd" />
-</div>
+</div> --> -->
 
 <!-- ГРАФИК АКТИВНОСТИ -->
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<!-- <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=JonyMalikov&theme=react-dark&bg_color=0d1117&hide_border=true&color=a9dc76&line=a9dc76&point=fdfdfd" width="100%"/>
-</div>
+</div> --> 
 
 ---
 
