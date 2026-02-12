@@ -5,8 +5,6 @@
     Привет, я <a href="https://t.me/Evgeniy_Malikov">Евгений</a>
   </h1>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+разработчик;Люблю+Python+и+Django;Open+Source+энтузиаст&center=true&size=26&color=a9dc76&background=0d1117">
-  
-  <!-- СЧЁТЧИК ПРОСМОТРОВ -->
   <img src="https://komarev.com/ghpvc/?username=JonyMalikov&style=flat-square&color=a9dc76" alt="profile views"/>
 </div>
 
@@ -20,7 +18,7 @@
 - 💼 Ищу работу **Backend‑разработчиком** (Python/Django)
 - 📫 Связь: **malikov_ev@mail.ru** или в Telegram ниже
 - 🌍 Родной язык — русский
-- ⚡ Codewars:  [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
+- ⚡ Codewars: [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
 ---
 
@@ -48,37 +46,22 @@
 
 ---
 
-## 📊 Статистика и трофеи
+## 📊 Статистика
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyMalikov&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
 </div>
 
-<!-- ТРОФЕИ (исправленный домен) -->
-<!-- <div align="center">
+<!-- ТРОФЕИ (рабочий домен vercel) -->
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonyMalikov&theme=radical&no-frame=true&row=2&column=3&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd" />
-</div> -->
+</div>
 
-<!-- ГРАФИК АКТИВНОСТИ -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/JonyMalikov/JonyMalikov/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<!-- <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JonyMalikov&theme=react-dark&bg_color=0d1117&hide_border=true&color=a9dc76&line=a9dc76&point=fdfdfd" width="100%"/>
-</div> --> 
+<!-- ГРАФИК АКТИВНОСТИ (исправлен на github-readme-activity-graph) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonyMalikov&theme=react-dark&bg_color=0d1117&hide_border=true&color=a9dc76&line=a9dc76&point=fdfdfd" width="100%"/>
+</div>
 
 ---
 
