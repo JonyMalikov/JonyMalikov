@@ -21,6 +21,7 @@
 - 🎯 Цель: вырасти до **Senior‑разработчика**
 - 🕹️ Хобби: катаюсь на сноуборде и играю в хоккей
 - 🌍 Родной язык — русский
+- ⚡ Codewars: [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
 ---
 
@@ -57,14 +58,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JonyMalikov&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonyMalikov&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonyMalikov&theme=radical&utcOffset=3" />
-</div>
-
----
-
-## 🔥 Статистика Codewars
-
-<div align="center">
-  <img src="https://github.r2v.ch/codewars?user=JonyMalikov&name=true&top_languages=true&stroke=%23a9dc76&theme=dark" width="400"/>
 </div>
 
 ---
