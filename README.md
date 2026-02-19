@@ -19,7 +19,7 @@
 - 🔭 Сейчас работаю над **pet‑проектом — интернет‑магазин на Django**
 - 🌱 Прохожу обучение на **Hyperskill** (Python, алгоритмы, Django)
 - 🎯 Цель: вырасти до **Senior‑разработчика**
-- 🕹️ Хобби: катаюсь на сноуборде и играю в хоккей
+- 🕹️ Хобби: катаюсь на сноуборде, играю в хоккей, 📚 читаю книги
 - 🌍 Родной язык — русский
 - ⚡ Codewars: [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
@@ -32,6 +32,7 @@
   <a href="https://vk.com/e.malikov"><img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/evgeniy-malikov-740446279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:malikov_ev@mail.ru"><img src="https://img.shields.io/badge/Email-malikov_ev@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://evgeniymalikov.pythonanywhere.com/"><img src="https://img.shields.io/badge/Портфолио-Сайт-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
