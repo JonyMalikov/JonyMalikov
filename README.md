@@ -5,20 +5,22 @@
     Привет, я <a href="https://t.me/Evgeniy_Malikov">Евгений</a>
   </h1>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+разработчик;Люблю+Python+и+Django;Open+Source+энтузиаст&center=true&size=26&color=a9dc76&background=0d1117">
+  
+  <!-- СЧЁТЧИК ПРОСМОТРОВ -->
   <img src="https://komarev.com/ghpvc/?username=JonyMalikov&style=flat-square&color=a9dc76" alt="profile views"/>
 </div>
 
 <!-- КРАСИВЫЙ РАЗДЕЛИТЕЛЬ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1920">
 
-<!-- БЛОК "ОБО МНЕ" -->
+<!-- БЛОК "ОБО МНЕ" (обновлён) -->
 ## 👨‍💻 Обо мне
 
-- 🌱 Сейчас изучаю **продвинутый Django** на <a href="https://stepik.org/users/568858808" target="_blank">Stepik.org <img src="images/stepik_logotype_white.png" height="20" style="vertical-align: middle;"></a>
-- 💼 Ищу работу **Backend‑разработчиком** (Python/Django)
-- 📫 Связь: **malikov_ev@mail.ru** или в Telegram ниже
+- 🔭 Сейчас работаю над **pet‑проектом — интернет‑магазин на Django** (можешь заменить на свой)
+- 🌱 Прохожу обучение на **Hyperskill** (Python, алгоритмы, Django)
+- 🎯 Цель: вырасти до **Senior‑разработчика**
+- 🕹️ Хобби: катаюсь на сноуборде и играю в хоккей
 - 🌍 Родной язык — русский
-- ⚡ Codewars: [![codewars](https://www.codewars.com/users/JonyMalikov/badges/small)](https://www.codewars.com/users/JonyMalikov)
 
 ---
 
@@ -28,6 +30,7 @@
   <a href="https://t.me/Evgeniy_Malikov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://vk.com/e.malikov"><img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/evgeniy-malikov-740446279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:malikov_ev@mail.ru"><img src="https://img.shields.io/badge/Email-malikov_ev@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,7 +49,7 @@
 
 ---
 
-## 📊 Статистика
+## 📊 Статистика GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonyMalikov&theme=radical" />
@@ -56,7 +59,26 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonyMalikov&theme=radical&utcOffset=3" />
 </div>
 
-<!--змейка-->
+---
+
+## 🔥 Статистика Codewars
+
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=JonyMalikov&name=true&top_languages=true&stroke=%23a9dc76&theme=dark" width="400"/>
+</div>
+
+---
+
+## 😄 Dev юмор
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes" width="400" />
+</div>
+
+---
+
+## 🐍 Змейка
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
