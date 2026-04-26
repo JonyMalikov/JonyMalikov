@@ -1,12 +1,11 @@
 <div align="center">
-  <!-- ASCII-логотип -->
+  <!-- Псевдографический логотип (без имени) -->
   <pre style="color:#a9dc76; background:#0d1117; padding:20px; border-radius:10px; font-family:monospace; font-size:14px; line-height:1.2; display:inline-block; text-align:left;">
-  ███████╗██╗   ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗   ██╗
-  ██╔════╝██║   ██║██╔════╝ ██╔════╝████╗  ██║██║╚██╗ ██╔╝
-  █████╗  ██║   ██║██║  ███╗█████╗  ██╔██╗ ██║██║ ╚████╔╝ 
-  ██╔══╝  ╚██╗ ██╔╝██║   ██║██╔══╝  ██║╚██╗██║██║  ╚██╔╝  
-  ███████╗ ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║██║   ██║   
-  ╚══════╝  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝   ╚═╝   
+  _   _      _ _        __        __         _     _ 
+ | | | | ___| | | ___   \ \      / /__  _ __| | __| |
+ | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` |
+ |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
+ |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
   </pre>
 
   <!-- Терминальная строка (статичная) -->
@@ -45,29 +44,18 @@
   </pre>
 </details>
 
-<!-- Статистика — в стиле терминала -->
+<!-- neofetch -->
 <details open>
-  <summary style="color:#a9dc76; cursor:pointer; margin-top:15px;">📊 stats.report</summary>
-  <div style="background:#161b22; border:1px solid #a9dc76; border-radius:8px; padding:12px; margin-top:8px;">
-    <pre style="color:#c9d1d9; background:transparent; margin:0; font-family:monospace; font-size:14px;">
-<span style="color:#a9dc76;">user@github:~$</span> <span style="color:#58a6ff;">stats</span> --compact
-<span style="color:#8b949e;">────────────────────────────────────────────</span>
-    </pre>
-    <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=JonyMalikov&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=a9dc76&icon_color=79c0ff&text_color=c9d1d9&hide_rank=true&custom_title=📈+Activity" height="90" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyMalikov&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=a9dc76&text_color=c9d1d9&hide_title=true" height="90" />
-    </div>
-  </div>
-</details>
-
-<!-- Codewars — только бейдж и ссылка -->
-<details>
-  <summary style="color:#a9dc76; cursor:pointer; margin-top:15px;">⚔️ tests.codewars</summary>
-  <pre style="color:#c9d1d9; background:transparent; margin:0;">
-  <span style="color:#ff7b72;">rank</span>   : <a href="https://www.codewars.com/users/JonyMalikov"><img src="https://www.codewars.com/users/JonyMalikov/badges/small" style="vertical-align:middle;" /></a>
-  <span style="color:#ff7b72;">profile</span>: <a href="https://www.codewars.com/users/JonyMalikov" style="color:#58a6ff;">codewars.com/users/JonyMalikov</a>
+  <summary style="color:#a9dc76; cursor:pointer; margin-top:15px;">🖥️ neofetch</summary>
+  <pre style="color:#c9d1d9; background:#161b22; border:1px solid #a9dc76; border-radius:8px; padding:12px; margin-top:8px;">
+<span style="color:#a9dc76;">user@github:~$</span> <span style="color:#58a6ff;">neofetch</span>
+  <span style="color:#a9dc76;">OS</span>: GitHub Profile v1.0
+  <span style="color:#a9dc76;">Repos</span>: 12
+  <span style="color:#a9dc76;">Stars</span>: 42
+  <span style="color:#a9dc76;">Languages</span>: Python, SQL, HTML/CSS
   </pre>
 </details>
+
 
 <div style="margin-top:20px;">
   <pre style="color:#a9dc76; background:transparent; border-left:3px solid #a9dc76; padding-left:10px;">
