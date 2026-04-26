@@ -50,12 +50,11 @@
   <pre style="color:#c9d1d9; background:#161b22; border:1px solid #a9dc76; border-radius:8px; padding:12px; margin-top:8px;">
 <span style="color:#a9dc76;">user@github:~$</span> <span style="color:#58a6ff;">neofetch</span>
   <span style="color:#a9dc76;">OS</span>: GitHub Profile v1.0
-  <span style="color:#a9dc76;">Repos</span>: 12
-  <span style="color:#a9dc76;">Stars</span>: 42
-  <span style="color:#a9dc76;">Languages</span>: Python, SQL, HTML/CSS
+  <span style="color:#a9dc76;">Repos</span>: 4
+  <span style="color:#a9dc76;">Stars</span>: 0
+  <span style="color:#a9dc76;">Languages</span>: Python, JavaScript, HTML/CSS
   </pre>
 </details>
-
 
 <div style="margin-top:20px;">
   <pre style="color:#a9dc76; background:transparent; border-left:3px solid #a9dc76; padding-left:10px;">
